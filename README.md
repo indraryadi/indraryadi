@@ -15,6 +15,7 @@
 </br>
 
 <h2>Tools</h2>
+<img alt="GitHub" src="https://www.debian.org/logos/openlogo-nd-100.jpg" title="Debian" style="max-width: 100%;" width="26px" align="left">
 <img alt="GitHub" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" title="VsCode" style="max-width: 100%;" width="26px" align="left">
 <img alt="GitHub" src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-128.png" title="Terminal" style="max-width: 100%;" width="26px" align="left">
 <img alt="GitHub" src="https://developer.android.com/studio/images/studio-icon.svg" title="Android_studio" style="max-width: 100%;" width="26px" align="left">
