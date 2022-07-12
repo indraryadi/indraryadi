@@ -1,7 +1,6 @@
 <h1>Hi, I’m indra </h1>
 - 👀 I’m interested in Native Android App Development, Web Development, and Data Engineer </br>
 - 🌱 I’m currently learning Data Engineer </br>
-- :old_key: I'm currently looking for Data engineering job </br>
 - :penguin: I'm debian user </br></br>
 
 <h2>:scroll: Languages</h2>
