@@ -1,7 +1,7 @@
 <h1>Hi, I’m indra </h1>
-- 👀 I’m interested in Native Android App Development, Web Development, and Data Engineer </br>
-- 🌱 I’m currently learning Data Engineer </br>
-- :penguin: I'm debian user </br></br>
+- 👀 I’m interested in Mobile App Development, Web Development, and Data Engineer </br>
+- 🌱 I’m currently learning Web Development </br>
+- :penguin: I'm linux user </br></br>
 
 <h2>:scroll: Languages</h2>
 <img alt="GitHub" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png" title="Python" style="max-width: 100%;" width="26px" align="left">
