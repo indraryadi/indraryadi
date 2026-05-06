@@ -1,5 +1,5 @@
-<h1>Hi, I’m indra </h1>
-Just normal person that love to code and solving problem using it.
+<h1>Hi, I’m Indra </h1>
+I love solving problems and I usually use code for it.
 </br>
 </br>
 </br>
